@@ -1,1 +1,1 @@
-a simple random number generate
+free to use :D
