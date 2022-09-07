@@ -1,1 +1,1 @@
-# random-number-generate
+a simple random number generate
